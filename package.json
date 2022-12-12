@@ -1,8 +1,8 @@
 {
-  "name": "summercamp",
+  "name": "pokeviewer",
   "version": "1.0.0",
   "description": "",
-  "main": "summerCampServer.js",
+  "main": "pokemon.js",
   "scripts": {
     "test": "test"
   },
